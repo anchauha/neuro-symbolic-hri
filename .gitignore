@@ -1,0 +1,14 @@
+# Virtual environment
+neuro-symbolic-hri/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
